@@ -390,7 +390,7 @@ GameObject:
   - component: {fileID: 326821326}
   m_Layer: 0
   m_Name: ground
-  m_TagString: Untagged
+  m_TagString: groundTag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -704,6 +704,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef1368c7180aec346b32f58ad9edc5db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  block: {fileID: 0}
 --- !u!1001 &497121154
 Prefab:
   m_ObjectHideFlags: 0
